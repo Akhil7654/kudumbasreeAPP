@@ -1,0 +1,23 @@
+.btn{
+    color: brown;
+    border: 0px;
+}
+
+.card-body {
+    background-color: rgb(230, 213, 192);
+}
+
+.card-body1 {
+    margin-left: 10px;
+}
+
+.image2 {
+    margin-left: 800px;
+    margin-top: -270px;
+    border-radius: 8px;
+}
+.image1 {
+    margin-left: 100px;
+    border-radius: 8px;
+}
+
